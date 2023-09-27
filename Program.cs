@@ -32,7 +32,7 @@ while (calendar.Size > 0 || queue.IsEmpty() == false)
             Client doneClient = new Client();
             cashier.FreeClient(ref doneClient);
             doneClient.LeaveTime = currentTime;
-            Console.WriteLine("Клиент №{0} пробыл в очереди {1} секунд", ++currentClients, doneClient.LeaveTime - doneClient.ArriveTime);
+            Console.WriteLine("[{0}] Клиент пробыл в очереди {1} секунд(ы)", ++currentClients, doneClient.LeaveTime - doneClient.ArriveTime);
             sumWaitTime += doneClient.LeaveTime - doneClient.ArriveTime;
         }
     }
@@ -45,4 +45,4 @@ while (calendar.Size > 0 || queue.IsEmpty() == false)
         calendar.Add(2, currentTime+random.Next(2, 6));
     }
 }
-Console.WriteLine("Среднее время ожидания составляет " + ((double)sumWaitTime / clientNum) + " секунд");
+Console.WriteLine("Среднее время ожидания для "+clientNum+" клиентов составляет " + ((double)sumWaitTime / clientNum) + " секунд(ы)");
