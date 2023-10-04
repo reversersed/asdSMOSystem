@@ -1,10 +1,8 @@
-﻿using System.Drawing;
-
-public class CalendarNode
+﻿public class CalendarNode
 {
     public int id;
     public int time;
-    public CalendarNode next;
+    public CalendarNode? next;
 
     public CalendarNode(int id, int time)
     {
@@ -15,7 +13,7 @@ public class CalendarNode
 }
 public class Calendar
 {
-    CalendarNode first;
+    CalendarNode? first;
     public int Size { get; private set; }
 
     public Calendar()
@@ -46,11 +44,11 @@ public class Calendar
         Size += 1;
         return true;
     }
-    private bool Add(ref CalendarNode start, CalendarNode node)
+    private bool Add(ref CalendarNode? start, CalendarNode node)
     {
         if (start == null || start.time >= node.time)
         {
-            CalendarNode temp = start;
+            CalendarNode? temp = start;
             start = node;
             start.next = temp;
             return true;
