@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Folders\\Projects\\ASDSMO\\ASDSMO.csproj",
+      "projectUniqueName": "C:\\Users\\myreg\\Source\\Repos\\reversersed\\asdSMOSystem\\ASDSMO.csproj",
       "projectName": "ASDSMO",
-      "projectPath": "C:\\Folders\\Projects\\ASDSMO\\ASDSMO.csproj",
+      "projectPath": "C:\\Users\\myreg\\Source\\Repos\\reversersed\\asdSMOSystem\\ASDSMO.csproj",
       "packagesPath": "C:\\Users\\myreg\\.nuget\\packages\\",
-      "outputPath": "C:\\Folders\\Projects\\ASDSMO\\obj\\",
+      "outputPath": "C:\\Users\\myreg\\Source\\Repos\\reversersed\\asdSMOSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Programs\\Visual Studio\\Shared\\NuGetPackages"

@@ -12,3 +12,17 @@ C:\Folders\Projects\ASDSMO\obj\Debug\net7.0\refint\ASDSMO.dll
 C:\Folders\Projects\ASDSMO\obj\Debug\net7.0\ASDSMO.pdb
 C:\Folders\Projects\ASDSMO\obj\Debug\net7.0\ASDSMO.genruntimeconfig.cache
 C:\Folders\Projects\ASDSMO\obj\Debug\net7.0\ref\ASDSMO.dll
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\bin\Debug\net7.0\ASDSMO.exe
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\bin\Debug\net7.0\ASDSMO.deps.json
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\bin\Debug\net7.0\ASDSMO.runtimeconfig.json
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\bin\Debug\net7.0\ASDSMO.dll
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\bin\Debug\net7.0\ASDSMO.pdb
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\obj\Debug\net7.0\ASDSMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\obj\Debug\net7.0\ASDSMO.AssemblyInfoInputs.cache
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\obj\Debug\net7.0\ASDSMO.AssemblyInfo.cs
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\obj\Debug\net7.0\ASDSMO.csproj.CoreCompileInputs.cache
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\obj\Debug\net7.0\ASDSMO.dll
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\obj\Debug\net7.0\refint\ASDSMO.dll
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\obj\Debug\net7.0\ASDSMO.pdb
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\obj\Debug\net7.0\ASDSMO.genruntimeconfig.cache
+C:\Users\myreg\Source\Repos\reversersed\asdSMOSystem\obj\Debug\net7.0\ref\ASDSMO.dll
